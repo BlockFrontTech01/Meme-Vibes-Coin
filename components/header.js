@@ -6,11 +6,11 @@ const Header = () => {
   const [isMemevibesMenuOpen, setMemevibesMenuOpen] = useState(false);
 
   const onFrameButtonClick = useCallback(() => {
-    window.open("https://parkingswing.vercel.app");
+    window.open("https://jeffspace.vercel.app");
   }, []);
 
   const onFrameButton1Click = useCallback(() => {
-    window.open("https://parkingswing.vercel.app");
+    window.open("https://jeffspace.vercel.app");
   }, []);
 
   const openMemevibesMenu = useCallback(() => {
